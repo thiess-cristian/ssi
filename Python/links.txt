@@ -1,0 +1,3 @@
+1) curs programare pe baza de python
+http://www.inf.fu-berlin.de/lehre/SS12/ALP2/homework.htm
+http://www.inf.fu-berlin.de/lehre/SS12/ALP2/lectures.htm
